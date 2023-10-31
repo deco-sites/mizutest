@@ -69,8 +69,7 @@ const manifest = {
     "deco-sites/mizutest/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$25,
     "deco-sites/mizutest/sections/Miscellaneous/CookieConsent.tsx": $$$$$$26,
     "deco-sites/mizutest/sections/Newsletter/Newsletter.tsx": $$$$$$32,
-    "deco-sites/mizutest/sections/Product/ImageGalleryFrontBack.tsx":
-      $$$$$$22,
+    "deco-sites/mizutest/sections/Product/ImageGalleryFrontBack.tsx": $$$$$$22,
     "deco-sites/mizutest/sections/Product/ImageGallerySlider.tsx": $$$$$$21,
     "deco-sites/mizutest/sections/Product/NotFound.tsx": $$$$$$24,
     "deco-sites/mizutest/sections/Product/NotFoundChallenge.tsx": $$$$$$17,
